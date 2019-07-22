@@ -9,6 +9,6 @@ namespace Wx;
 class Wx{
    public function __construct()
    {
-       echo 'ok';
+       echo 'oks';
    }
 }
