@@ -1,0 +1,19 @@
+{
+    "name": "wf/my-wx",
+    "description": "This is a Wechat Development Assistant Package for PHP",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wf",
+            "email": "411328093@qq.com"
+        }
+    ],
+    "require": {
+        "php":">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "MyWx\\": "src/"
+        }
+    }
+}
